@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\IMDB]
+@="Search on IMDB"
+
+[HKEY_CLASSES_ROOT\Directory\shell\IMDB\command]
+@="\"C:\\IMDB\\IMDB.bat\" \"%1\""

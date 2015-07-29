@@ -1,0 +1,25 @@
+1) Place the folder straight into your C disk. 
+
+i.e path should be "C:\IMDB"
+
+2) Double click "INSTALL registry fix". This will add the actual button to the right click menu.
+
+3) Dont move the IMDB folder.
+
+----
+
+
+Right click on any folder, and you can now search for that folders name on IMDB. Some optimization is done (trimming of whitepsaces, dots, brackets, hyphens, parantheses, common advertisement for uploaders, etc.
+
+You can also right click groups of folders.
+
+It will always use your default browser.
+
+
+
+TODO: Lots of stuff. Suggestions > bluekristoffer@gmail.com
+
+
+Uninstall? Run the "uninstallRegistryEntries.bat".
+Uninstall and delete? Run "uninstall_complete_REMOVAL.bat". Will run if the parent folder is named IMDB
+
