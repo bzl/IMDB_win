@@ -55,6 +55,15 @@ call :Fix movie h264
 ::cut string after BluRay
 call :Fix movie BluRay
 
+::cut string after RERip
+call :Fix movie RERip
+
+::cut string after WEBRip
+call :Fix movie WEBRip
+
+::cut string after DVDRip
+call :Fix movie DVDRip
+
 ::Trims trailing/leading spaces
 call :Trim movie %movie%
 
